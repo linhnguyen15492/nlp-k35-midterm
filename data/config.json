@@ -1,0 +1,58 @@
+{
+  "works": [
+    {
+      "id": "an-nam-chi-luoc",
+      "name": "An Nam Chí Lược",
+      "resources": [
+        {
+          "lang": "han",
+          "format": "pdf",
+          "path": "data/raw/pdfs/an-nam-chi-luoc-han.pdf",
+          "pages": null
+        },
+        {
+          "lang": "viet",
+          "format": "text",
+          "path": "data/raw/texts/an-nam-chi-luoc-viet.txt",
+          "pages": null
+        }
+      ]
+    },
+    {
+      "id": "dai-viet-su-ky",
+      "name": "Đại Việt Sử Ký Toàn Thư",
+      "resources": [
+        {
+          "lang": "han",
+          "format": "images",
+          "path": "data/raw/images/dai-viet-su-ky/",
+          "pages": null
+        },
+        {
+          "lang": "viet",
+          "format": "pdf",
+          "path": "data/raw/pdfs/dai-viet-su-ky-viet.pdf",
+          "pages": null
+        }
+      ]
+    },
+    {
+      "id": "viet-su-luoc",
+      "name": "Việt Sử Lược",
+      "resources": [
+        {
+          "lang": "han",
+          "format": "pdf",
+          "path": "data/raw/pdfs/viet-su-luoc.pdf",
+          "pages": "1-80"
+        },
+        {
+          "lang": "viet",
+          "format": "pdf",
+          "path": "data/raw/pdfs/viet-su-luoc.pdf",
+          "pages": "81-150"
+        }
+      ]
+    }
+  ]
+}

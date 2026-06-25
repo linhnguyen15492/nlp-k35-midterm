@@ -1,0 +1,22 @@
+# Pipeline configuration
+
+ocr:
+  han_engine: paddleocr       # paddleocr | text_layer
+  viet_engine: pytesseract    # pytesseract | text_layer
+  paddle_lang: ch
+  tesseract_lang: vie
+  dpi: 200                    # PDF render resolution
+  mixed_page_split: top_bottom  # top_bottom | left_right (crop strategy for mixed_page)
+
+alignment:
+  default_method: labse         # labse | auto_translate | greedy
+  labse_model: LaBSE
+  similarity_threshold: 0.5
+
+char_aligner:
+  enabled: true
+  med_threshold: 2              # Max edit distance to consider "corrected"
+
+output:
+  encoding: utf-8
+  tsv_delimiter: "\t"
