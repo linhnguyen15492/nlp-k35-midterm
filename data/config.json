@@ -38,18 +38,30 @@
     },
     {
       "id": "cong-du-tiep-ky",
-      "name": "Công Dư Tiệp Ký 1",
+      "name": "Công Dư Tiệp Ký",
       "resources": [
         {
           "lang": "han",
           "format": "images",
-          "path": "data/raw/images/cong_du_tiep_ky_1_han/",
+          "path": "data/raw/images/cong_du_tiep_ky_han/",
           "pages": null
         },
         {
           "lang": "viet",
           "format": "pdf",
           "path": "data/raw/pdfs/cong_du_tiep_ky_1_viet.pdf",
+          "pages": null
+        },
+        {
+          "lang": "viet",
+          "format": "pdf",
+          "path": "data/raw/pdfs/cong_du_tiep_ky_2_viet.pdf",
+          "pages": null
+        },
+        {
+          "lang": "viet",
+          "format": "pdf",
+          "path": "data/raw/pdfs/cong_du_tiep_ky_3_viet.pdf",
           "pages": null
         }
       ]
@@ -69,6 +81,12 @@
           "format": "pdf",
           "path": "data/raw/pdfs/dai_nam_quoc_su_dien_ca_q1_viet.pdf",
           "pages": null
+        },
+        {
+          "lang": "viet",
+          "format": "pdf",
+          "path": "data/raw/pdfs/dai_nam_quoc_su_dien_ca_q2_viet.pdf",
+          "pages": null
         }
       ]
     },
@@ -86,6 +104,12 @@
           "lang": "viet",
           "format": "pdf",
           "path": "data/raw/pdfs/dai_viet_lich_trieu_dang_khoa_luc_1_viet.pdf",
+          "pages": null
+        },
+        {
+          "lang": "viet",
+          "format": "pdf",
+          "path": "data/raw/pdfs/dai_viet_lich_trieu_dang_khoa_luc_2_viet.pdf",
           "pages": null
         }
       ]
