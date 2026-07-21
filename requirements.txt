@@ -1,21 +1,10 @@
+# --- Core PDF & Image Processing ---
 pymupdf
-paddlepaddle==2.6.2
-paddleocr==2.8.1
-pytesseract
-underthesea
+
+# --- NLP & Sentence Alignment ---
 sentence-transformers
-google-generativeai
+
+# --- Utilities & API ---
 python-dotenv
-pyyaml
-tqdm
-Pillow
-pdf2image
-paddleocr
-vietocr
-opencv-python
-realesrgan
-torch
 requests
-pdfplumber
-PyMuPDF
-python-dotenv
+tqdm

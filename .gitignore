@@ -71,3 +71,13 @@ coverage.xml
 Thumbs.db
 
 data/raw
+
+scratch
+
+.venv
+
+# === Model Weights ===
+*.pth
+*.onnx
+*.bin
+weights/
